@@ -246,7 +246,14 @@ h4 {
     
     margin-right: 10px;
 }
+iframe {
+    border: 0; 
+}
 
+.avatar {
+    border-radius: 50%;
+    
+}
 .button {
     
     font-weight: normal;
