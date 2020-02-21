@@ -2,7 +2,7 @@ YouTube video page
 
 The best video streaming website ever
 
-<img src="images/screenshot.png">
+<img src="images/screenshot1.png">
 
 Additional description about the project and its features.
 
